@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.junitsetup.JunitsetupApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.707 s -- in com.example.junitsetup.JunitsetupApplicationTests
